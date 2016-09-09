@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b3e74e3-1255-447d-8660-afcb13f150dd" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/去掉ie button 按钮左右两侧的留白/去掉ieButton按钮左右两侧的留白.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CSS制作三角形 ie下不支持transparent以及默认字体行高的解决方案/CSS制作三角形 ie下不支持transparent以及默认字体行高的解决方案.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="compatibilityCollection.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,16 +24,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="去掉ieButton按钮左右两侧的留白.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="去掉ieButton按钮左右两侧的留白.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/去掉ie button 按钮左右两侧的留白/去掉ieButton按钮左右两侧的留白.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6904762">
-              <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+            <state vertical-scroll-proportion="-4.0277777">
+              <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <marker date="1473432760468" expanded="true" signature="968:1153" placeholder="..." />
                 <marker date="1473432760468" expanded="true" signature="1381:1518" placeholder="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CSS制作三角形 ie下不支持transparent以及默认字体行高的解决方案.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CSS制作三角形 ie下不支持transparent以及默认字体行高的解决方案/CSS制作三角形 ie下不支持transparent以及默认字体行高的解决方案.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.34897715">
+              <caret line="10" column="2" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="57" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -55,6 +65,7 @@
       <list>
         <option value="$PROJECT_DIR$/去掉ieButton按钮左右两侧的留白.html" />
         <option value="$PROJECT_DIR$/去掉ie button 按钮左右两侧的留白/去掉ieButton按钮左右两侧的留白.html" />
+        <option value="$PROJECT_DIR$/CSS制作三角形 ie下不支持transparent以及默认字体行高的解决方案/CSS制作三角形 ie下不支持transparent以及默认字体行高的解决方案.html" />
       </list>
     </option>
   </component>
@@ -82,7 +93,7 @@
     <OptionsSetting value="true" id="更新" />
     <OptionsSetting value="true" id="状态" />
     <OptionsSetting value="true" id="编辑" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -132,7 +143,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="去掉ie button 按钮左右两侧的留白" />
+              <option name="myItemId" value="CSS制作三角形 ie下不支持transparent以及默认字体行高的解决方案" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -145,12 +156,13 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
-    <property name="settings.editor.selected.configurable" value="web.server" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="ignore_missing_gitignore" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -244,13 +256,21 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/去掉ie button 按钮左右两侧的留白/去掉ieButton按钮左右两侧的留白.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6904762">
-          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+        <state vertical-scroll-proportion="-4.0277777">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
           <folding>
             <element signature="n#style#0;n#div#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <marker date="1473432760468" expanded="true" signature="968:1153" placeholder="..." />
             <marker date="1473432760468" expanded="true" signature="1381:1518" placeholder="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS制作三角形 ie下不支持transparent以及默认字体行高的解决方案/CSS制作三角形 ie下不支持transparent以及默认字体行高的解决方案.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34897715">
+          <caret line="10" column="2" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="57" />
+          <folding />
         </state>
       </provider>
     </entry>
