@@ -1,0 +1,19 @@
+{
+  "name": "compco",
+  "version": "1.0.0",
+  "description": "兼容性问题收集",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fanyifanbumaimeng/compatibilityCollection.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fanyifanbumaimeng/compatibilityCollection/issues"
+  },
+  "homepage": "https://github.com/fanyifanbumaimeng/compatibilityCollection#readme"
+}

@@ -1,0 +1,55 @@
+<!DOCTYPE>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>长按钮两边过多空白的压缩演示</title>
+</head>
+<style type="text/css">
+    <!--
+    input.thinButton {
+        overflow: visible;
+        padding: 0 .5em;
+    }
+
+    td input.thinButton {
+        width: auto;
+        *width: 1%;
+    }
+
+    -->
+</style>
+<body>
+<form method="post" action="">
+    <div style="margin-left:7px;margin-bottom:16px;"><!--调整按钮摆放,以便观察-->
+        <input type="button" value="单元格外的长按钮"/>按钮两端空白未经压缩<br/>
+        <input type="button" value="单元格外的长按钮" onclick="this.disabled='disabled'" class="thinButton"/>按钮两端空白已被压缩
+    </div>
+    <table border="1" cellpadding="3">
+        <tr>
+            <td>
+                <input type="button" value="单元格内的长按钮"/>按钮两端空白未经压缩
+            </td>
+        </tr>
+    </table>
+    <table border="1" cellpadding="3">
+        <tr>
+            <td>
+                <!--[if IE 7]>
+                <script type="text/javascript">
+                    if (document.compatMode == 'CSS1Compat') //IE7标准模式下还需要用float的div再封装一层
+                        document.write('<div style="float:left;">');
+                </script>
+                <![endif]-->
+                <input type="button" value="单元格内的长按钮" onclick="this.disabled='disabled'" class="thinButton"/>按钮两端空白已被压缩
+                <!--[if IE 7]>
+                <script type="text/javascript">
+                    if (document.compatMode == 'CSS1Compat')
+                        document.write('</div>');
+                </script>
+                <![endif]-->
+            </td>
+        </tr>
+    </table>
+</form>
+</body>
+</html>
